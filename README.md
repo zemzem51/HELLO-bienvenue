@@ -30,6 +30,8 @@
                    <p> <b> 2003-2005 DEUG de Sciences de la Vie et de la Santé</b> UFR des Sciences  et Techniques de Tours</p>
             <hr>
                 <li><p><u> Loisirs </u> <br>  sport, nature, humanitaire, monde associatif</p></li>
+                <li> <u> Projection professionnelle</u> <br> </li>
+                   <p>Devenir <strong>Développeur Web</strong>et à long terme devenir <strong>Concepteur Développeur       d'Applications</strong> Car ce sont des métiers qui me passionnent par leur perpétuelle évolution qui révolutionne notre vie en plus d’offrir des débauchés sur le marché du travail</p>    
             </ol>   
         </body>  
     </HTML>
