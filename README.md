@@ -32,7 +32,14 @@
                 <li><p><u> Loisirs </u> <br>  sport, nature, humanitaire, monde associatif</p></li>
             <hr>    
                 <li> <u> Projection professionnelle</u> <br> </li>
-                   <p>Devenir <strong>Développeur Web</strong> et à long terme devenir <strong> Concepteur Développeur d'Applications                        </strong> Car ce sont des métiers qui me passionnent par leur perpétuelle évolution qui révolutionne notre vie en                        plus d’offrir des débauchés sur le marché du travail</p>    
+                   <p>Devenir <strong>Développeur Web</strong> et à long terme devenir <strong> Concepteur Développeur d'Applications                        </strong> Car ce sont des métiers qui me passionnent par leur perpétuelle évolution qui révolutionne notre vie en                        plus d’offrir des débauchés sur le marché du travail</p>  
+             <hr>              
+                <li> <u> Qualités personnelles </u> <br> </li>
+                    <ul>
+                        <li> Esprit d'équioe</li>
+                        <li> sens de l'écoute</li>
+                        <li> Rigueur et méthodologie</li>
+                    </ul>
             </ol>   
         </body>  
     </HTML>
