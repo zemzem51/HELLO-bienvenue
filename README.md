@@ -1,12 +1,6 @@
 <p>HELLO-bienvenue</p>
 <p>page de présentation de ali ZEMOUCHE</p>
-<!DOCTUPE html>
-    <HTML>
-        <head> 
-            <title> PRESENTATION ALI ZEMOUCHE</title>
-            <meta charset="UTF-8">
-        </head>
-        <body>
+
             <H1> .....................C.V Ali ZEMOUCHE...................</H1>
             <img src="ali.jpg" alt="photographie de visage de Ali Zemouche">
             <br/> <br/>
