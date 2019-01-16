@@ -3,7 +3,7 @@
 <!DOCTYPE html>
     <HTML>
         <head> 
-           
+            <title> PRESENTATION ALI ZEMOUCHE</title>
             <meta charset="UTF-8">
         </head>
         <body>
@@ -40,8 +40,6 @@
                         <li> sens de l'écoute</li>
                         <li> Rigueur et méthodologie</li>
                     </ul>
-            </ol>
-            
-       </body>
-        
-   </HTML>
+            </ol>  
+        </body>
+     </HTML>
