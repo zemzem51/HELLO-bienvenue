@@ -15,7 +15,7 @@
             <ol> 
                 <li><u> Expériences professionnelles</u> <br></li>
                     <ul>
-                        <li><p> <b>2016-2018  Employé puis Gérant de A&Z security </b> <br/>-édition des cartes d'accès<br/> -contràol d'accès<br/> -planning et suivi d'agents</p></li>
+                        <li><p> <b>2016-2018   Gérant de A&Z security </b> <br/>-édition des cartes d'accès<br/> -contràol d'accès<br/> -planning et suivi d'agents</p></li>
                         <li><p> <b>Janvier 2011-octobre2016: Technicien contrôle qualitétrucks&stores</b><br/>-réception et contrôle de la qualitédes marchandises<br/>-Rédiger un carnet de charge fournisseurs-Mise en place de  la démarche  sécurité-santé-environnement ISO 14001</p> </li>
                         <li><p> <b>2009-2011 Technicien contrôle qualité EPCIP Le Mans</b> <br/> - Analyses microbiologiques et suivi des indicateurs<br/>- Contrôle de la qualité olfactive et gustative<br/>- Suivi et amélioration du process de fabrication<br/>- Etablir des plans d’amélioration<br/>-HACCP, bonnes pratiques d’hygiène et norme en microbiologie, norme ISO 14001, ISO 9001 et ILO OSH 2001</p> </li>
                         <li><p> <b>2007-2010Agent administratif Direction Départementale des Territoires de Loiret </b> <br/> Assister les agriculteurs à la constitution des dossiers de Politique Agricole Commune <br/>-Vérifier la complétude des dossiers papiers et informatiques<br/>-Classer et archiver des dossiers</p> </li>
