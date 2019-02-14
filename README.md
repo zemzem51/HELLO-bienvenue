@@ -8,7 +8,6 @@
         </head>
         <body>
             <H1> .....................C.V Ali ZEMOUCHE...................</H1>
-            
             <br/> <br/>
             <p><b>Ali ZEMOUCHE</b> <br/> 4 place François RUDE<br/> 37200 TOURS <br/> TEL: 0661995353<br/>  ali.zemouche1@gmail.com</p>
             <hr>
