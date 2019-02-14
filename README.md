@@ -20,7 +20,7 @@
                         <li><p> <b>2007-2010Agent administratif Direction Départementale des Territoires de Loiret </b> <br/> Assister les agriculteurs à la constitution des dossiers de Politique Agricole Commune <br/>-Vérifier la complétude des dossiers papiers et informatiques<br/>-Classer et archiver des dossiers</p> </li>
                         <li><p> <b>-2006Stage à l’entreprise SYRAL(6 mois)</b> <br/>-Conception sensorielle, formulation et réalisation d’un produit innovant <br/>-Reformulation de recettes selon les nouvelles allégations européennes et analyse des caractéristiques qualité.</p> </li>
                         <li><p> <b>-2003-2006 Manager en restauration chez Bellacita Chambray-Lès-Tours(mi-temps)</b> <br/> -Préparation et mise en place du planning<br/>-Gérer les équipes en salle<br/>-Etablir le bilan journalier </p></li>
-                        <li><p> <b>2011-2012-2013 Président de l’association Franco-Berbère de Touraine</b> </p></li> <br/><br/>
+                        <li><p> <b>2011-2012-2013 Président de l’association Franco-Berbère de Touraine</b> </p></li> <br/>
                     </ul> 
             <hr>            
                 <li> <u> Diplômes  </u> <br> </li>
