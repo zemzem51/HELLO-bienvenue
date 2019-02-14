@@ -36,7 +36,7 @@
                 <hr>              
                 <li> <u> Qualités personnelles </u> <br> </li>
                     <ul>
-                        <li> Esprit d'équioe</li>
+                        <li> Esprit d'équipe</li>
                         <li> sens de l'écoute</li>
                         <li> Rigueur et méthodologie</li>
                     </ul>
