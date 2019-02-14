@@ -1,7 +1,5 @@
 <p>HELLO-bienvenue</p>
 <p>page de présentation de ali ZEMOUCHE</p>
-
-
 <!DOCTYPE html>
     <HTML>
         <head> 
