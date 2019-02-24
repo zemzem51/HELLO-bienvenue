@@ -9,7 +9,7 @@
         <body>
             <H1> .....................C.V Ali ZEMOUCHE...................</H1>
             <br/> <br/>
-            <p><b>Ali ZEMOUCHE</b> <br/> 4 place François RUDE<br/> 37200 TOURS <br/> TEL: 0661995353<br/>   M'envoyer <a href="mailto:ali.zemouche1@gmail.com">un mail</a></p>
+            <p><b>Ali ZEMOUCHE</b> <br/> 4 place François RUDE<br/> 37200 TOURS <br/> TEL: 0661995353<br/>   M'envoyer <a href="mailto:ali.zemouche1@gmail.com">un mail</a></p><img src= "https://drive.google.com/open?id=1xUfi5_OlRpwqKPp-j49Oqb_hfL-UBfk5" alt="photographie de visage de Ali Zemouche">
             <hr>
             <ol> 
                 <li><u> Expériences professionnelles</u> <br></li>
