@@ -42,6 +42,6 @@
             </ol>  <br/><br/><br/><br/>
             <p> Le numérique est un secteur en pleine expansion. Il transverse et irrigue tous les secteurs d’activité et toutes les sphères de l’entreprise : petites, moyennes ou grandes entreprises en  automobile, tourisme, médical, luxe, environnement ou finance …  tout devient numérique, que ce soient le texte, l’image, la photo, la musique ou la vidéo. Les nouvelles technologies telles que les smartphones, les ordinateurs portables ou encore les tablettes font aujourd’hui entièrement partie du quotidien, sans que nous nous en rendions compte. Ce secteur ne cesse de se développer : réalité augmentée, objets connectés, intelligence artificielle...
  Véritable vivier de croissance et d'emplois, Le numérique est un domaine en constante évolution. Des formations innovantes et de nouveaux métiers s'y créent, le marché français fait face à une réelle pénurie de professionnels et il y a une très forte demande de spécialistes en ce qui concerne le monde du numérique. <br/>
-Le numérique est à la foi passionnant, dynamique et important. c'est c'est raisons que je souhaiterai m'otienter vers un métieer de numérique. <p>
+Le numérique est à la foi passionnant, dynamique et important. c'est c'est raisons que je souhaiterai m'orienter vers un métieer de numérique. <p>
         </body>
      </HTML>
