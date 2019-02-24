@@ -2,8 +2,7 @@
 <p>page de présentation de ali ZEMOUCHE</p>
 <!DOCTYPE html>
      <HTML>
-        <head> 
-             
+        <head>   
             <title>présentation de ali ZEMOUCHEE</title>
             <meta charset="UTF-8">
         </head>
